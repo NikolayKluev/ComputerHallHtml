@@ -1,0 +1,27 @@
+@import "styles.css";
+
+.main_delivery {
+    width: 1140px; 
+    height: 1120px; 
+    left: 150px; 
+    top: 580px; 
+    position: absolute; 
+    overflow: hidden
+}
+
+.delivery_text {
+    width: 1140px; 
+    height: 70px; 
+    left: 0px; 
+    top: 26px; 
+    position: absolute; 
+    justify-content: center; 
+    display: flex; 
+    flex-direction: column; 
+    color: black; 
+    font-size: 24px; 
+    font-family: Open Sans; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+

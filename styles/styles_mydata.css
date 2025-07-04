@@ -1,0 +1,64 @@
+@import "styles_account.css";
+@imoirt "styles";
+
+.mydata_content {
+    width: 1140px; 
+    height: 534px; 
+    left: 150px; 
+    top: 140px; 
+    position: absolute; 
+    overflow: hidden
+}
+
+.mydata_text, .login_text, .secname_text, .firstname_text, .numtel_text, 
+.email_text, .toaccount {
+    width: 500px; 
+    height: 30px; 
+    left: 20px; 
+    top: 50px; 
+    position: absolute; 
+    justify-content: center; 
+    display: flex; 
+    flex-direction: column; 
+    color: black; 
+    font-size: 16px; 
+    font-family: Open Sans; 
+    font-weight: 400; 
+    word-wrap: break-word
+} 
+
+.login_text {
+    top: 20px;     
+    position: absolute
+}
+
+.secname_text {
+    top: 80px; 
+}
+
+.firstname_text {
+    top: 110px;
+}
+
+.numtel_text {
+    top: 140px; 
+}
+
+.email_text {
+    top: 170px;
+}
+
+.toaccount {
+    top: 237px;
+    cursor: pointer;
+}
+
+.toaccount:hover {
+    color: #999999;
+    transition: 0.1s;
+}
+
+.exit_button {
+    left: 20px;
+    top: 300px;
+}

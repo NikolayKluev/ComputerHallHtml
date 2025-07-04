@@ -1,0 +1,204 @@
+@import "styles.css";
+
+.main_catalog {
+    width: 1140px; 
+    height: 1560px; 
+    left: 150px; 
+    top: 140px; 
+    position: absolute; 
+    background: white;    
+}
+
+.card_catalog_1, .card_catalog_2, .card_catalog_3, .card_catalog_4, .card_catalog_5, 
+.card_catalog_6, .card_catalog_7, .card_catalog_8, .card_catalog_9 {    
+    left: 400px; 
+    top: 555px; 
+    position: absolute;     
+}
+.card_catalog_2 {
+    left: 795px;
+}
+
+.card_catalog_3 {
+    left: 5px;    
+}
+
+.card_catalog_4 {     
+    top: 25px;
+}
+
+.card_catalog_5 {
+    left: 5px; 
+    top: 25px;
+}
+
+.card_catalog_6 {
+    left: 795px; 
+    top: 25px;
+}
+
+.card_catalog_7 {
+    left: 5px; 
+    top: 1085px;
+}
+
+.card_catalog_8 {
+    left: 400px; 
+    top: 1085px;
+}
+
+.card_catalog_9 {
+    left: 795px; 
+    top: 1085px;
+}
+
+.card_catalog {
+    width: 340px; 
+    height: 450px;     
+    position: relative; 
+    background: white; 
+    border: 5px solid #A78808;
+    border-radius: 12px;     
+    cursor: pointer;
+}
+
+ul.catalog {
+    margin-left: 0px; 
+        margin-top: 30px;          
+}
+
+ul.catalog li {
+    display: inline-block; 
+        margin-right: 10px; 
+        margin-bottom: 10px;
+}
+
+.card_catalog_border_img {
+    width: 330px; 
+    height: 300px; 
+    left: 5px; 
+    top: 5px; 
+    position: absolute; 
+    overflow: hidden; 
+    border-top-left-radius: 12px; 
+    border-top-right-radius: 12px;    
+}
+
+.card_catalog_text {
+    width: 330px; 
+    height: 140px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    text-align: center; 
+    justify-content: center; 
+    display: flex; 
+    flex-direction: column; 
+    color: black; 
+    font-size: 24px; 
+    font-family: Open Sans; 
+    font-weight: 400; 
+    line-height: 24px; 
+    word-wrap: break-word;
+}
+
+.card_catalog_border_text {
+    width: 330px; 
+    height: 140px; 
+    left: 5px; 
+    top: 305px; 
+    position: absolute; 
+    background: white; 
+    overflow: hidden; 
+    border-bottom-right-radius: 12px; 
+    border-bottom-left-radius: 12px;
+    cursor: pointer;
+}
+
+.card_catalog_img_blokpit {
+    width: 300px; 
+    height: 300px; 
+    left: 15px; 
+    top: 0px; 
+    position: absolute
+}
+
+.card_catalog_img_korpus {
+    width: 300px; 
+    height: 300px; 
+    left: 15px; 
+    top: 0px; 
+    position: absolute
+}
+
+.card_catalog_img_cooler {
+    width: 300px; 
+    height: 158px; 
+    left: 15px; 
+    top: 71px; 
+    position: absolute
+}
+
+.card_catalog_img_mb {
+    width: 264px; 
+    height: 300px; 
+    left: 33px; 
+    top: 0px; 
+    position: absolute
+}
+
+.card_catalog_img_processors {
+    width: 300px; 
+    height: 165.45px; 
+    left: 15px; 
+    top: 55px; 
+    position: absolute
+}
+
+.card_catalog_img_ddr {
+    width: 300px; 
+    height: 201px; 
+    left: 15px; 
+    top: 49px; 
+    position: absolute
+}
+
+.card_catalog_img_ssd {
+    width: 300px; 
+    height: 225px; 
+    left: 15px; 
+    top: 37px; 
+    position: absolute
+}
+
+.card_catalog_img_videocard {
+    width: 300px; 
+    height: 193px; 
+    left: 15px; 
+    top: 53px; 
+    position: absolute
+}
+
+.card_catalog_img_harddrive {
+    width: 300px; 
+    height: 148px; 
+    left: 15px; 
+    top: 76px; 
+    position: absolute
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

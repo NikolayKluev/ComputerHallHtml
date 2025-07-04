@@ -1,0 +1,23 @@
+@import "styles.css";
+
+.main_stocks {
+    width: 1140px; 
+    height: 1120px; 
+    left: 150px; 
+    top: 580px; 
+    position: absolute; 
+    overflow: hidden
+}
+
+.stocks_text {
+    width: 1140px; 
+    height: 120px; 
+    left: 0px; 
+    top: 26px; 
+    position: absolute; 
+    color: black; 
+    font-size: 24px; 
+    font-family: Open Sans; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
